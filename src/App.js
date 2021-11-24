@@ -100,7 +100,7 @@ function App() {
       ))}
     </div>
     <p>
-      Turns:{turns} test
+      Turns:{turns} 
     </p>
     </div>
     
